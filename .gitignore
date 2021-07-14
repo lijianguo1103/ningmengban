@@ -1,0 +1,5 @@
+# 屏蔽src文件夹
+src/
+
+# 屏蔽python缓存文件
+*.py[cod]
